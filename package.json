@@ -1,0 +1,24 @@
+{
+  "name": "@hsc92180/array_methods",
+  "version": "1.0.2",
+  "description": "This npm package contains many methods that used for arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Array",
+    "sort",
+    "filter",
+    "reduce",
+    "map",
+    "modify",
+    "find length",
+    "find index",
+    "concatenating",
+    "slice",
+    "iteration"
+  ],
+  "author": "Himanshu",
+  "license": "ISC"
+}
